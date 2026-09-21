@@ -37,6 +37,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ev084.gbfranking.com/guild</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ev083.gbfranking.com/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
